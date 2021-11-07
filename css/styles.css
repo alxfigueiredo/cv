@@ -1,0 +1,231 @@
+body
+{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1
+{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+}
+
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  margin-top : 40px;
+  padding-bottom : 10px;
+
+}
+
+.engineer-title
+{
+  font-family: 'Source Code Pro', monospace;
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr
+{
+  margin : 100px auto;
+  border-style: dotted none none none;
+  width : 4%;
+  border-width: 6px;
+  color: #1DB9C3;
+}
+
+a
+{
+  color: #11999E;
+  text-decoration:none;
+  margin: 10px 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover
+{
+  color : #EAF6F6;
+}
+
+p
+{
+  line-height: 2;
+}
+
+table
+{
+  line-height: 2;
+}
+
+.gamer-img
+{
+  max-height: 350px;
+}
+
+.img-prof
+{
+  border-radius:50%;
+  max-height: 300px;
+  margin-top: 75px;
+}
+
+.profile
+{
+  width: 50%;
+  margin : 100px auto 100px auto;
+  text-align: center;
+}
+
+.pc-img
+{
+  border-radius:50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.guitar-img
+{
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.yt-img
+{
+  border-radius : 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.top-container
+{
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 100px;
+  position:relative;
+  background-color: #E4F9F5;
+}
+
+.middle-container
+{
+  margin : 100px 0;
+}
+
+.bottom-container
+{
+  background-color: #66BFBF;
+  padding : 50px 0 20px;
+}
+
+.top_cloud
+{
+  position: absolute;
+  right:250px;
+  top:40px;
+}
+
+.bottom_cloud
+{
+  position: absolute;
+  left:250px;
+  bottom:300px;
+}
+
+.intro
+{
+  width: 45%;
+  margin: 0 auto 0 auto;
+}
+
+.skill-row
+{
+  margin : 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.guitar-title
+{
+  clear:left;
+}
+
+.guitar_descr
+{
+  clear: left;
+}
+
+.touch-title
+{
+  margin-bottom: 40px;
+}
+
+.touch-msg
+{
+  margin : 40px auto 60px;
+  width : 40%;
+}
+
+.signature
+{
+  margin-top: 20px 0;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+
+.witsend-link
+{
+  margin: 0;
+}
+
+.BUTTON_KAR {
+  margin: 60px;
+   background: #27DDB3;
+   background-image: -webkit-linear-gradient(top, #27DDB3, #1ED0D0);
+   background-image: -moz-linear-gradient(top, #27DDB3, #1ED0D0);
+   background-image: -ms-linear-gradient(top, #27DDB3, #1ED0D0);
+   background-image: -o-linear-gradient(top, #27DDB3, #1ED0D0);
+   background-image: -webkit-gradient(to bottom, #27DDB3, #1ED0D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 25px;
+   -webkit-box-shadow: 1px 0 20px 0 #000000;
+   -moz-box-shadow: 1px 0 20px 0 #000000;
+   box-shadow: 1px 0 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_KAR:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
